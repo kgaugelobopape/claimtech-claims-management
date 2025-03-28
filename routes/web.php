@@ -12,5 +12,6 @@ Route::prefix("claims")->name('claims.')->group(function () {
 });
 
 Route::prefix("users")->name('users.')->group(function () {
+ //User registration
 
 });
